@@ -1,0 +1,22 @@
+# Cachés de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Secretos y configuración local (nunca se versionan)
+.env
+*.key
+
+# Archivos del editor y del sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Salidas generadas por la aplicación (se regeneran con los comandos del README)
+outputs/
