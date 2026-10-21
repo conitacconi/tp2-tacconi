@@ -1,0 +1,492 @@
+[
+  {
+    "receta_id": "REC-001",
+    "receta": "Tortilla de papas",
+    "porciones": 4,
+    "ingrediente": "papa",
+    "cantidad": "600 g"
+  },
+  {
+    "receta_id": "REC-001",
+    "receta": "Tortilla de papas",
+    "porciones": 4,
+    "ingrediente": "huevo",
+    "cantidad": "4 u"
+  },
+  {
+    "receta_id": "REC-001",
+    "receta": "Tortilla de papas",
+    "porciones": 4,
+    "ingrediente": "cebolla",
+    "cantidad": "1 u"
+  },
+  {
+    "receta_id": "REC-001",
+    "receta": "Tortilla de papas",
+    "porciones": 4,
+    "ingrediente": "aceite",
+    "cantidad": "100 ml"
+  },
+  {
+    "receta_id": "REC-001",
+    "receta": "Tortilla de papas",
+    "porciones": 4,
+    "ingrediente": "sal",
+    "cantidad": "5 g"
+  },
+  {
+    "receta_id": "REC-002",
+    "receta": "Milanesas al horno",
+    "porciones": 4,
+    "ingrediente": "carne",
+    "cantidad": "500 g"
+  },
+  {
+    "receta_id": "REC-002",
+    "receta": "Milanesas al horno",
+    "porciones": 4,
+    "ingrediente": "huevo",
+    "cantidad": "2 u"
+  },
+  {
+    "receta_id": "REC-002",
+    "receta": "Milanesas al horno",
+    "porciones": 4,
+    "ingrediente": "pan rallado",
+    "cantidad": "150 g"
+  },
+  {
+    "receta_id": "REC-002",
+    "receta": "Milanesas al horno",
+    "porciones": 4,
+    "ingrediente": "aceite",
+    "cantidad": "30 ml"
+  },
+  {
+    "receta_id": "REC-002",
+    "receta": "Milanesas al horno",
+    "porciones": 4,
+    "ingrediente": "sal",
+    "cantidad": "5 g"
+  },
+  {
+    "receta_id": "REC-003",
+    "receta": "Fideos con salsa",
+    "porciones": 4,
+    "ingrediente": "fideos",
+    "cantidad": "400 g"
+  },
+  {
+    "receta_id": "REC-003",
+    "receta": "Fideos con salsa",
+    "porciones": 4,
+    "ingrediente": "puré de tomate",
+    "cantidad": "500 ml"
+  },
+  {
+    "receta_id": "REC-003",
+    "receta": "Fideos con salsa",
+    "porciones": 4,
+    "ingrediente": "cebolla",
+    "cantidad": "1 u"
+  },
+  {
+    "receta_id": "REC-003",
+    "receta": "Fideos con salsa",
+    "porciones": 4,
+    "ingrediente": "ajo",
+    "cantidad": "2 u"
+  },
+  {
+    "receta_id": "REC-003",
+    "receta": "Fideos con salsa",
+    "porciones": 4,
+    "ingrediente": "aceite",
+    "cantidad": "30 ml"
+  },
+  {
+    "receta_id": "REC-003",
+    "receta": "Fideos con salsa",
+    "porciones": 4,
+    "ingrediente": "sal",
+    "cantidad": "5 g"
+  },
+  {
+    "receta_id": "REC-004",
+    "receta": "Panqueques con dulce de leche",
+    "porciones": 4,
+    "ingrediente": "harina",
+    "cantidad": "200 g"
+  },
+  {
+    "receta_id": "REC-004",
+    "receta": "Panqueques con dulce de leche",
+    "porciones": 4,
+    "ingrediente": "leche",
+    "cantidad": "0,5 l"
+  },
+  {
+    "receta_id": "REC-004",
+    "receta": "Panqueques con dulce de leche",
+    "porciones": 4,
+    "ingrediente": "huevo",
+    "cantidad": "2 u"
+  },
+  {
+    "receta_id": "REC-004",
+    "receta": "Panqueques con dulce de leche",
+    "porciones": 4,
+    "ingrediente": "manteca",
+    "cantidad": "30 g"
+  },
+  {
+    "receta_id": "REC-004",
+    "receta": "Panqueques con dulce de leche",
+    "porciones": 4,
+    "ingrediente": "sal",
+    "cantidad": "2 g"
+  },
+  {
+    "receta_id": "REC-004",
+    "receta": "Panqueques con dulce de leche",
+    "porciones": 4,
+    "ingrediente": "dulce de leche",
+    "cantidad": "200 g"
+  },
+  {
+    "receta_id": "REC-005",
+    "receta": "Arroz con pollo",
+    "porciones": 4,
+    "ingrediente": "arroz",
+    "cantidad": "0.3 kg"
+  },
+  {
+    "receta_id": "REC-005",
+    "receta": "Arroz con pollo",
+    "porciones": 4,
+    "ingrediente": "pollo",
+    "cantidad": "600 g"
+  },
+  {
+    "receta_id": "REC-005",
+    "receta": "Arroz con pollo",
+    "porciones": 4,
+    "ingrediente": "Cebolla",
+    "cantidad": "1 u"
+  },
+  {
+    "receta_id": "REC-005",
+    "receta": "Arroz con pollo",
+    "porciones": 4,
+    "ingrediente": "morrón",
+    "cantidad": "1 u"
+  },
+  {
+    "receta_id": "REC-005",
+    "receta": "Arroz con pollo",
+    "porciones": 4,
+    "ingrediente": "aceite",
+    "cantidad": "40 ml"
+  },
+  {
+    "receta_id": "REC-005",
+    "receta": "Arroz con pollo",
+    "porciones": 4,
+    "ingrediente": "sal",
+    "cantidad": "5 g"
+  },
+  {
+    "receta_id": "REC-006",
+    "receta": "Ensalada mixta",
+    "porciones": 2,
+    "ingrediente": "lechuga",
+    "cantidad": "1 u"
+  },
+  {
+    "receta_id": "REC-006",
+    "receta": "Ensalada mixta",
+    "porciones": 2,
+    "ingrediente": "tomate",
+    "cantidad": "2 u"
+  },
+  {
+    "receta_id": "REC-006",
+    "receta": "Ensalada mixta",
+    "porciones": 2,
+    "ingrediente": "cebolla",
+    "cantidad": "1 u"
+  },
+  {
+    "receta_id": "REC-006",
+    "receta": "Ensalada mixta",
+    "porciones": 2,
+    "ingrediente": "aceite",
+    "cantidad": "30 ml"
+  },
+  {
+    "receta_id": "REC-006",
+    "receta": "Ensalada mixta",
+    "porciones": 2,
+    "ingrediente": "limón",
+    "cantidad": "1 u"
+  },
+  {
+    "receta_id": "REC-007",
+    "receta": "Tarta de jamón y queso",
+    "porciones": 6,
+    "ingrediente": "harina",
+    "cantidad": "250 g"
+  },
+  {
+    "receta_id": "REC-007",
+    "receta": "Tarta de jamón y queso",
+    "porciones": 6,
+    "ingrediente": "manteca",
+    "cantidad": "100 g"
+  },
+  {
+    "receta_id": "REC-007",
+    "receta": "Tarta de jamón y queso",
+    "porciones": 6,
+    "ingrediente": "Jamón",
+    "cantidad": "150 g"
+  },
+  {
+    "receta_id": "REC-007",
+    "receta": "Tarta de jamón y queso",
+    "porciones": 6,
+    "ingrediente": "queso",
+    "cantidad": "200 g"
+  },
+  {
+    "receta_id": "REC-007",
+    "receta": "Tarta de jamón y queso",
+    "porciones": 6,
+    "ingrediente": "huevo",
+    "cantidad": "2 u"
+  },
+  {
+    "receta_id": "REC-007",
+    "receta": "Tarta de jamón y queso",
+    "porciones": 6,
+    "ingrediente": "sal",
+    "cantidad": "3 g"
+  },
+  {
+    "receta_id": "REC-008",
+    "receta": "Guiso de lentejas",
+    "porciones": 4,
+    "ingrediente": "lentejas",
+    "cantidad": "300 g"
+  },
+  {
+    "receta_id": "REC-008",
+    "receta": "Guiso de lentejas",
+    "porciones": 4,
+    "ingrediente": "papa",
+    "cantidad": "300 g"
+  },
+  {
+    "receta_id": "REC-008",
+    "receta": "Guiso de lentejas",
+    "porciones": 4,
+    "ingrediente": "zanahoria",
+    "cantidad": "2 u"
+  },
+  {
+    "receta_id": "REC-008",
+    "receta": "Guiso de lentejas",
+    "porciones": 4,
+    "ingrediente": "cebolla",
+    "cantidad": "1 u"
+  },
+  {
+    "receta_id": "REC-008",
+    "receta": "Guiso de lentejas",
+    "porciones": 4,
+    "ingrediente": "puré de tomate",
+    "cantidad": "250 ml"
+  },
+  {
+    "receta_id": "REC-008",
+    "receta": "Guiso de lentejas",
+    "porciones": 4,
+    "ingrediente": "sal",
+    "cantidad": "5 g"
+  },
+  {
+    "receta_id": "REC-009",
+    "receta": "Tostado de jamón y queso",
+    "porciones": 2,
+    "ingrediente": "pan de molde",
+    "cantidad": "4 u"
+  },
+  {
+    "receta_id": "REC-009",
+    "receta": "Tostado de jamón y queso",
+    "porciones": 2,
+    "ingrediente": "jamón",
+    "cantidad": "100 g"
+  },
+  {
+    "receta_id": "REC-009",
+    "receta": "Tostado de jamón y queso",
+    "porciones": 2,
+    "ingrediente": "  queso",
+    "cantidad": "100 g"
+  },
+  {
+    "receta_id": "REC-009",
+    "receta": "Tostado de jamón y queso",
+    "porciones": 2,
+    "ingrediente": "manteca",
+    "cantidad": "20 g"
+  },
+  {
+    "receta_id": "REC-010",
+    "receta": "Budín de limón",
+    "porciones": 8,
+    "ingrediente": "harina",
+    "cantidad": "250 g"
+  },
+  {
+    "receta_id": "REC-010",
+    "receta": "Budín de limón",
+    "porciones": 8,
+    "ingrediente": "azúcar",
+    "cantidad": "200 g"
+  },
+  {
+    "receta_id": "REC-010",
+    "receta": "Budín de limón",
+    "porciones": 8,
+    "ingrediente": "huevo",
+    "cantidad": "3 u"
+  },
+  {
+    "receta_id": "REC-010",
+    "receta": "Budín de limón",
+    "porciones": 8,
+    "ingrediente": "manteca",
+    "cantidad": "100 g"
+  },
+  {
+    "receta_id": "REC-010",
+    "receta": "Budín de limón",
+    "porciones": 8,
+    "ingrediente": "limón",
+    "cantidad": "2 u"
+  },
+  {
+    "receta_id": "REC-010",
+    "receta": "Budín de limón",
+    "porciones": 8,
+    "ingrediente": "leche",
+    "cantidad": "100 ml"
+  },
+  {
+    "receta_id": "REC-011",
+    "receta": "Omelette de queso",
+    "porciones": 1,
+    "ingrediente": "huevo",
+    "cantidad": "3 u"
+  },
+  {
+    "receta_id": "REC-011",
+    "receta": "Omelette de queso",
+    "porciones": 1,
+    "ingrediente": "queso",
+    "cantidad": "80 g"
+  },
+  {
+    "receta_id": "REC-011",
+    "receta": "Omelette de queso",
+    "porciones": 1,
+    "ingrediente": "manteca",
+    "cantidad": "10 g"
+  },
+  {
+    "receta_id": "REC-011",
+    "receta": "Omelette de queso",
+    "porciones": 1,
+    "ingrediente": "sal",
+    "cantidad": "1 g"
+  },
+  {
+    "receta_id": "REC-012",
+    "receta": "Puré de papas",
+    "porciones": 4,
+    "ingrediente": "papa",
+    "cantidad": "800 g"
+  },
+  {
+    "receta_id": "REC-012",
+    "receta": "Puré de papas",
+    "porciones": 4,
+    "ingrediente": "leche",
+    "cantidad": "150 ml"
+  },
+  {
+    "receta_id": "REC-012",
+    "receta": "Puré de papas",
+    "porciones": 4,
+    "ingrediente": "manteca",
+    "cantidad": "40 g"
+  },
+  {
+    "receta_id": "REC-012",
+    "receta": "Puré de papas",
+    "porciones": 4,
+    "ingrediente": "sal",
+    "cantidad": "5 g"
+  },
+  {
+    "receta_id": "REC-001",
+    "receta": "Tortilla de papas",
+    "porciones": 4,
+    "ingrediente": "huevo",
+    "cantidad": "4 u"
+  },
+  {
+    "receta_id": "REC-012",
+    "receta": "Puré de papas",
+    "porciones": 4,
+    "ingrediente": "nuez moscada",
+    "cantidad": "una pizca"
+  },
+  {
+    "receta_id": "REC-011",
+    "receta": "Omelette de queso",
+    "porciones": 1,
+    "ingrediente": "",
+    "cantidad": "5 g"
+  },
+  {
+    "receta_id": "REC-006",
+    "receta": "Ensalada mixta",
+    "porciones": 2,
+    "ingrediente": "sal",
+    "cantidad": "0 g"
+  },
+  {
+    "receta_id": "REC-009",
+    "receta": "Tostado de jamón y queso",
+    "porciones": 2,
+    "ingrediente": "aceite",
+    "cantidad": "2 u"
+  },
+  {
+    "receta_id": "REC-007",
+    "receta": "Tarta de jamón y queso",
+    "porciones": 8,
+    "ingrediente": "aceitunas",
+    "cantidad": "50 g"
+  },
+  {
+    "receta_id": "PIZZA-1",
+    "receta": "Pizza casera",
+    "porciones": 4,
+    "ingrediente": "harina",
+    "cantidad": "300 g"
+  }
+]

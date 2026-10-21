@@ -1,0 +1,71 @@
+receta_id,receta,porciones,ingrediente,cantidad
+REC-001,Tortilla de papas,4,papa,600 g
+REC-001,Tortilla de papas,4,huevo,4 u
+REC-001,Tortilla de papas,4,cebolla,1 u
+REC-001,Tortilla de papas,4,aceite,100 ml
+REC-001,Tortilla de papas,4,sal,5 g
+REC-002,Milanesas al horno,4,carne,500 g
+REC-002,Milanesas al horno,4,huevo,2 u
+REC-002,Milanesas al horno,4,pan rallado,150 g
+REC-002,Milanesas al horno,4,aceite,30 ml
+REC-002,Milanesas al horno,4,sal,5 g
+REC-003,Fideos con salsa,4,fideos,400 g
+REC-003,Fideos con salsa,4,puré de tomate,500 ml
+REC-003,Fideos con salsa,4,cebolla,1 u
+REC-003,Fideos con salsa,4,ajo,2 u
+REC-003,Fideos con salsa,4,aceite,30 ml
+REC-003,Fideos con salsa,4,sal,5 g
+REC-004,Panqueques con dulce de leche,4,harina,200 g
+REC-004,Panqueques con dulce de leche,4,leche,"0,5 l"
+REC-004,Panqueques con dulce de leche,4,huevo,2 u
+REC-004,Panqueques con dulce de leche,4,manteca,30 g
+REC-004,Panqueques con dulce de leche,4,sal,2 g
+REC-004,Panqueques con dulce de leche,4,dulce de leche,200 g
+REC-005,Arroz con pollo,4,arroz,0.3 kg
+REC-005,Arroz con pollo,4,pollo,600 g
+REC-005,Arroz con pollo,4,Cebolla,1 u
+REC-005,Arroz con pollo,4,morrón,1 u
+REC-005,Arroz con pollo,4,aceite,40 ml
+REC-005,Arroz con pollo,4,sal,5 g
+REC-006,Ensalada mixta,2,lechuga,1 u
+REC-006,Ensalada mixta,2,tomate,2 u
+REC-006,Ensalada mixta,2,cebolla,1 u
+REC-006,Ensalada mixta,2,aceite,30 ml
+REC-006,Ensalada mixta,2,limón,1 u
+REC-007,Tarta de jamón y queso,6,harina,250 g
+REC-007,Tarta de jamón y queso,6,manteca,100 g
+REC-007,Tarta de jamón y queso,6,Jamón,150 g
+REC-007,Tarta de jamón y queso,6,queso,200 g
+REC-007,Tarta de jamón y queso,6,huevo,2 u
+REC-007,Tarta de jamón y queso,6,sal,3 g
+REC-008,Guiso de lentejas,4,lentejas,300 g
+REC-008,Guiso de lentejas,4,papa,300 g
+REC-008,Guiso de lentejas,4,zanahoria,2 u
+REC-008,Guiso de lentejas,4,cebolla,1 u
+REC-008,Guiso de lentejas,4,puré de tomate,250 ml
+REC-008,Guiso de lentejas,4,sal,5 g
+REC-009,Tostado de jamón y queso,2,pan de molde,4 u
+REC-009,Tostado de jamón y queso,2,jamón,100 g
+REC-009,Tostado de jamón y queso,2,  queso,100 g
+REC-009,Tostado de jamón y queso,2,manteca,20 g
+REC-010,Budín de limón,8,harina,250 g
+REC-010,Budín de limón,8,azúcar,200 g
+REC-010,Budín de limón,8,huevo,3 u
+REC-010,Budín de limón,8,manteca,100 g
+REC-010,Budín de limón,8,limón,2 u
+REC-010,Budín de limón,8,leche,100 ml
+REC-011,Omelette de queso,1,huevo,3 u
+REC-011,Omelette de queso,1,queso,80 g
+REC-011,Omelette de queso,1,manteca,10 g
+REC-011,Omelette de queso,1,sal,1 g
+REC-012,Puré de papas,4,papa,800 g
+REC-012,Puré de papas,4,leche,150 ml
+REC-012,Puré de papas,4,manteca,40 g
+REC-012,Puré de papas,4,sal,5 g
+REC-001,Tortilla de papas,4,huevo,4 u
+REC-012,Puré de papas,4,nuez moscada,una pizca
+REC-011,Omelette de queso,1,,5 g
+REC-006,Ensalada mixta,2,sal,0 g
+REC-009,Tostado de jamón y queso,2,aceite,2 u
+REC-007,Tarta de jamón y queso,8,aceitunas,50 g
+PIZZA-1,Pizza casera,4,harina,300 g
